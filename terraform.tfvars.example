@@ -1,0 +1,4 @@
+aws_region    = "ap-south-1"
+project_name  = "phoenix"
+rds_password  = "ChangeMe123!"
+public_key    = "ssh-rsa AAAA... your-public-key"
